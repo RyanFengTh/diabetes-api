@@ -1,6 +1,6 @@
 Flask==2.3.2
 numpy==1.24.3
-scikit-learn==1.2.2
+scikit-learn==1.6.1
 gunicorn==21.2.0
 setuptools>=68.0.0
 wheel
